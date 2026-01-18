@@ -44,10 +44,6 @@ root.mainloop()
 # In[1]:
 
 
-cd "C:\Users\Hp\OneDrive\Desktop\COLLEGE\4th ,5th and 6th sem\6th\digital_clock.py"
-python digital_clock.py
-
-
 # In[ ]:
 
 
